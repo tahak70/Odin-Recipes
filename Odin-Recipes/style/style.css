@@ -11,7 +11,7 @@
 .recipeLink {
     color: rgb(255, 186, 39);
     font-size: larger;
-    padding-inline-start: 20px;
+    padding: 20px;
 }
 
 .specialTitle {
